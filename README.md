@@ -1,4 +1,4 @@
-# TennisSimulation
+# Tennis Simulation
 
 Suppose we have a player playing against a simulator. The simulator throws the ball that must be repelled by the player. The player (red rectangle) is placed on a regular map of the same size as in the picture. The player has a racket (black in the picture).
 
