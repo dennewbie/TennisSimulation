@@ -2,7 +2,8 @@
 
 Suppose we have a player playing against a simulator. The simulator throws the ball that must be repelled by the player. The player (red rectangle) is placed on a regular map of the same size as in the picture. The player has a racket (black in the picture).
 
-![alt text](https://raw.githubusercontent.com/dennewbie/TennisSimulation/blob/master/screenshot.PNG)
+
+![Pitch Preview](/screenshot.png)
 
 
 The simulator makes a point if the player fails to repel the ball, otherwise if the receiver hits the ball the point goes to the player.  The game proceeds in this way:
